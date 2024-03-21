@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec0821f5be68e0b49d019fe647e86d9c",
+    "revision": "3becf66b28004c6fa9af6a49423de1d7",
     "url": "/phimmoi/index.html"
   },
   {
-    "revision": "4d3a9eb456928298d3b3",
+    "revision": "0dd05f9899f7b71e6861",
     "url": "/phimmoi/static/css/main.bc0b07fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/phimmoi/static/js/2.9edbe9cf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d3a9eb456928298d3b3",
-    "url": "/phimmoi/static/js/main.3dc091ef.chunk.js"
+    "revision": "0dd05f9899f7b71e6861",
+    "url": "/phimmoi/static/js/main.8e1bf3a2.chunk.js"
   },
   {
     "revision": "9cfdf297a62a503856dc",
