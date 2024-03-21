@@ -18,10 +18,10 @@ export default function NavBar() {
       className={classes.navbar}
       style={{ backgroundColor: scrolled && "black" }}
     >
-      <a href="/" className={classes["app-name"]}>
+      <a href="/phimmoi" className={classes["app-name"]}>
         Movie App
       </a>
-      <a href="/search">
+      <a href="/phimmoi/search">
         <svg
           className={`svg-inline--fa fa-search fa-w-16 ${classes.icon}`}
           fill="#ccc"
