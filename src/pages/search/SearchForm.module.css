@@ -1,0 +1,59 @@
+.form {
+  margin: 0 auto;
+  width: 40%;
+  background-color: white;
+  margin-top: 6rem;
+}
+/* Phần input */
+.form-input {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+.form input {
+  border: none;
+  width: 90%;
+  color: #717487;
+  font-size: 1.2rem;
+}
+.form input:hover {
+  border: 0.1rem solid #91a3b0;
+}
+.icon {
+  width: 1.5rem;
+  right: 0;
+  padding-right: 1rem;
+  cursor: pointer;
+}
+
+/* Phần button */
+.form-action {
+  display: flex;
+  justify-content: flex-end;
+  border-top: 0.1rem solid #00bbec;
+  padding-top: 2rem;
+}
+.form-action button {
+  padding: 0.6rem 1rem;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 2rem;
+  margin-right: 2.3rem;
+}
+
+.form-action .reset {
+  background-color: white;
+  color: #777;
+}
+.form-action .reset:hover {
+  background-color: #eee;
+}
+.form-action .search {
+  background-color: #00bbec;
+  color: white;
+}
+.form-action .search:hover {
+  background-color: #00bbd3;
+  color: white;
+}

@@ -1,0 +1,36 @@
+.poster {
+  width: 8.2rem;
+}
+.poster h3 {
+  color: whitesmoke;
+  text-align: center;
+  padding-top: 3rem;
+}
+.search-container h2 {
+  color: aliceblue;
+  margin-left: 1rem;
+}
+
+/* Phần xử lý danh sách phim */
+.search-list {
+  list-style-type: none;
+  /* width: 100%; */
+  padding: 1rem 3rem;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.search-list li {
+  transition: transform 0.5s;
+  cursor: pointer;
+}
+.search-list li:hover {
+  transform: scale(1.2);
+  z-index: 10;
+}
+
+/* Phần xử lý thông tin phim */
+.info-container {
+  padding: 1rem;
+}

@@ -1,0 +1,46 @@
+.banner {
+  width: 100%;
+  height: 60vh;
+}
+.banner-img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+.overlay {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.5);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.about {
+  position: absolute;
+  bottom: 4rem;
+  left: 2em;
+  color: white;
+  width: 60%;
+}
+.about h2 {
+  font-size: 3rem;
+}
+.about button {
+  display: inline-block;
+  cursor: pointer;
+  padding: 0.5rem 1.6rem;
+  margin-right: 1rem;
+  color: white;
+  font-size: 1rem;
+  background-color: rgba(34, 27, 34, 0.8);
+  border: none;
+  border-radius: 3px;
+}
+.about p {
+  width: 60%;
+  font-weight: bold;
+}
+.loading {
+  height: 60vh;
+  font-size: 14rem;
+}

@@ -1,0 +1,27 @@
+/* Phần xử lý thông tin phim */
+.info {
+  height: 50vh;
+  display: flex;
+  justify-content: space-between;
+  color: aliceblue;
+}
+
+.trailer-info {
+  width: 50%;
+}
+.trailer-info h3 {
+  font-size: 2.5rem;
+  border-bottom: 0.1rem solid white;
+  padding-bottom: 1rem;
+}
+.trailer-info div {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.trailer-media {
+  width: 50%;
+  padding: 1rem;
+}
+.trailer-media img {
+  width: 100%;
+}

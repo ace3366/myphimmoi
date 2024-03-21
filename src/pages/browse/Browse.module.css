@@ -1,0 +1,24 @@
+/* Phần trên : Banner + Navbar */
+.upper {
+  position: relative;
+}
+
+/* Phần hiển thị phim */
+.middle {
+  margin-left: 1rem;
+}
+.middle h2 {
+  color: aliceblue;
+  margin-left: -0.5rem;
+}
+
+.movie-section {
+  margin-top: 4rem;
+}
+
+.og img {
+  width: 8.8rem;
+}
+.the-others img {
+  width: 12rem;
+}

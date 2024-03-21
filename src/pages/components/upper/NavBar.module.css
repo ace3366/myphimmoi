@@ -1,0 +1,27 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 1rem 0;
+  z-index: 20;
+  transition: 1s;
+}
+
+.app-name {
+  color: #f00404;
+  left: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding-left: 1rem;
+  cursor: pointer;
+  text-decoration: none;
+}
+.icon {
+  width: 1.5rem;
+  right: 0;
+  padding-right: 1rem;
+  cursor: pointer;
+}
